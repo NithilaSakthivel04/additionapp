@@ -35,8 +35,8 @@ Step 10: Save and run the application.
 ```text
 /*
 Program to add two numbers and display the result.
-Developed by: Hemalatha R
-Registration Number: 212224040114
+Developed by: NITHILA S
+Registration Number: 212224040224
 */
 ```
 
